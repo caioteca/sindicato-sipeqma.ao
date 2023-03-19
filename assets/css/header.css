@@ -1,6 +1,6 @@
 /* Navbar
  =================================*/
-nav.navbar.bootsnav {
+ nav.navbar.bootsnav {
   margin-bottom: 0;
   -moz-border-radius: 0px;
   -webkit-border-radius: 0px;
@@ -1020,7 +1020,8 @@ a.custom-btn:hover:after {
     text-align: center;
   }
   .top-info__block ul {
-    text-align: center;
+    text-align: initial;
+    justify-items: center;
   }
   .middel-part__block .logo:after,
   .middel-part__block .logo:before {
