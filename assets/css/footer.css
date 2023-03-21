@@ -216,6 +216,7 @@
 .footer-logo {
 	margin-bottom: 20px;
 	display: inline-block;
+	filter: grayscale(100%) brightness(1000%);
 }
 /* Bottom Bar
  -------------------------------------------------------------- */
